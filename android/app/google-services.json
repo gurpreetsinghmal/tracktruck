@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740539884031",
+    "project_id": "tracktruck-ad7d8",
+    "storage_bucket": "tracktruck-ad7d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740539884031:android:e3349ee27c9db2a2db87ca",
+        "android_client_info": {
+          "package_name": "com.tracktruck.india"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBfisw8-SNsDEZaB0jAZHuBinqZj8F40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
