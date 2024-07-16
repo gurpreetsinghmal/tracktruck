@@ -136,7 +136,9 @@ class DashboardScreen extends StatelessWidget {
     Map<String, dynamic> rideData = {
       'current': null,
       'driverid': null,
+      'end':null,
       'endtime': null,
+      'lastupdate':null,
       'start': null,
       'starttime': null,
       'status': 'created',
